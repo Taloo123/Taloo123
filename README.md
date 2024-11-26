@@ -6,7 +6,7 @@ Co-founder at Fusion Flare Technologies | AI & ML Enthusiast | Full Stack Develo
 - **Programming Languages**: Python, JavaScript, C++
 - **DevOps Tools**: Kubernetes, Docker, Jenkins, Terraform
 - **Cloud Platforms**: AWS, Azure, Google Cloud
-- **Web Development**: HTML, CSS, React.js, Node.js , Nest.js , Express , Mongodb , Postgresql
+- **Web Development**: HTML, CSS, React.js, Node.js , Nest.js , Express , Mongodb , PostgreSQL
 - **AI/ML**: MediaPipe, TensorFlow, OpenCV
 - **Version Control**: Git, GitHub
 
