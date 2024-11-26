@@ -3,7 +3,7 @@ Hi there, I'm Muhammad Talal Habshi! 👋
 Co-founder at Fusion Flare Technologies | AI & ML Enthusiast | Full Stack Developer | Software Developer & Engineer | Computer Vision Specialist | Proficient in C++, python, JavaScript| Student at FAST
 
 🛠 **Technologies & Tools**
-- **Programming Languages**: Python, JavaScript, Bash
+- **Programming Languages**: Python, JavaScript, C++
 - **DevOps Tools**: Kubernetes, Docker, Jenkins, Terraform
 - **Cloud Platforms**: AWS, Azure, Google Cloud
 - **Web Development**: HTML, CSS, React.js, Node.js
@@ -19,7 +19,6 @@ https://medium.com/@talalhabshi03/docker-vs-virtual-machines-key-differences-and
 ---
 📫 **Let's Connect**
 - *https://www.linkedin.com/in/muhammad-talal-habshi-7b380328a/
--
 - **Email**: talalhabshi03@gmail.com
 
 ---
