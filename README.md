@@ -1,6 +1,6 @@
 Hi there, I'm Muhammad Talal Habshi! 👋
 
-Co-founder at Fusion Flare Technologies | AI & ML Enthusiast | Full Stack Developer | Software Developer & Engineer | Computer Vision Specialist | Proficient in C++, python, JavaScript| Student at FAST
+Co-founder at Fusion Flare Technologies | AI & ML Enthusiast | Full Stack Developer | Software Developer & Engineer | Computer Vision Specialist | Proficient in C++, Python, JavaScript| Student at FAST
 
 🛠 **Technologies & Tools**
 - **Programming Languages**: Python, JavaScript, C++ , Kotlin
